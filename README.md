@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# Onchain Micro Blog Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The contract for an onchain micro blogging app.
 
-Try running some of the following tasks:
+[DEMO](https://nextjs-microblog-front.vercel.app/ "DEMO")
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+### SepoliaETH
+
+You can get 1 SepoliaETH per day with Alchemy's Sepolia Faucet.
+
+[Sepolia Faucet](https://sepoliafaucet.com/ "Sepolia Faucet")
+
+### Frontend
+
+The frontend code is here:
+
+[https://github.com/yukio5347/nextjs-microblog-front](https://github.com/yukio5347/nextjs-microblog-front)
+
